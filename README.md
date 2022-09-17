@@ -7,7 +7,7 @@
 
 ### 👨‍⚖️ In my POV, CV aka Resume is just a paper, where people are free to write 💩.
 ### 👨‍💻 Therefore, this space is my real CV aka Resume.
-### 🧛‍♂️ There are some fun fact about my Github account:
+### 🧛‍♂️ There are some fun facts about my Github account:
 - I never fork git repos from anyone.
 - The only time I work on other user's repo is when I contribute on this.
 - Every repo in my account is home-made, hand-made, and post-researches-made.
