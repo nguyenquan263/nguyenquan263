@@ -1,7 +1,7 @@
 # This is Quan Nguyen aka Kwan Win.
 
 ## ⭐ I'm currently working as a Web Developer at nSide, Inc aka @nsideapp
-## 👾 Checkout my personal website at [here](https://nside.guru).
+## 👾 Checkout my personal website at [here](https://quan.qanguyen.net).
 ## ⭐ Me when working on projects:
 ![Alt Text](https://media0.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif)
 
