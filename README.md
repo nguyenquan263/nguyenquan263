@@ -1,4 +1,4 @@
-# This is Quan Nguyen aka Kwan Win.
+# This is Quinn N. aka Kwan Win.
 
 ## ⭐ I'm currently working as a Web Developer at nSide, Inc aka @nsideapp
 ## 👾 Checkout my personal website at [here](https://quan.qanguyen.net).
